@@ -7,7 +7,7 @@ The [Woolworths](https://www.woolworths.com.au/) Data Scraper is a custom-built 
 [Selenium](https://www.selenium.dev/documentation/)
 
 ## Getting Started
-*To get started, follow these steps:
+*To get started, follow these steps:*
 
 **1) Install the [Selenium](https://www.selenium.dev/documentation/) package on your device**
 ```bash
